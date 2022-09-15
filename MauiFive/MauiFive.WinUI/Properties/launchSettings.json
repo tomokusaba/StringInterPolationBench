@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MauiFive.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
